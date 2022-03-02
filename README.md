@@ -1,5 +1,5 @@
 </br>
-<p>PROJETO EM NEXTJS</p>
+<p>PROJETO EM NEXT-JS</p>
 <hr>
 </br>
     <h3 aling="center"> Projeto realizado seguindo aulas!</h3>
